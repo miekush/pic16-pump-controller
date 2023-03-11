@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pic16-pump-controller")(type "KiCad")(uri "${KIPRJMOD}/pic16-pump-controller.kicad_sym")(options "")(descr ""))
+)
